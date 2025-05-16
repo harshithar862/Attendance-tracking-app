@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108009236655",
+    "project_id": "ai-app-12365",
+    "storage_bucket": "ai-app-12365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108009236655:android:ca2b8157767ac7e793cc5a",
+        "android_client_info": {
+          "package_name": "com.example.employee_attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPoGOqD-QDRLiguGuExo1hEwJO8SDFL2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108009236655:android:0393c9fb0147f42493cc5a",
+        "android_client_info": {
+          "package_name": "com.example.fitness_ai_coach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPoGOqD-QDRLiguGuExo1hEwJO8SDFL2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
